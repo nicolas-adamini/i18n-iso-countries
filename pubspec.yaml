@@ -1,8 +1,7 @@
 name: i18n_iso_countries
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/nicolas-adamini/i18n-iso-countries
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
